@@ -30,8 +30,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text create your own content providers to get contacts details.
-Developed by: vaanmugil vs
-Registeration Number : 212221040174
+Developed by: DHINESH KUMAR T
+Registeration Number : 212221040041
 */
 ```
 ### activity_main.xml
